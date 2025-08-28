@@ -9,7 +9,7 @@ A minimal, practical starting point for a multi-tenant Backend-as-a-Service buil
 
 ## Badges (replace `<owner>` and `<repo>` after you push)
 
-CI: ![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)
+CI: ![CI](https://github.com/thushar10/baas-multitenant-skeleton/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -168,11 +168,11 @@ baas-multitenant-skeleton/
 
 ## Day 1 Definition of Done
 
-- [ ] CI passing with Maven build
-- [ ] /health returns 200 locally
-- [ ] One request proves tenant id is received and logged
-- [ ] README shows your chosen tenancy + isolation strategy
-- [ ] At least 2 screenshots in `/screenshots`
+- [x] CI passing with Maven build
+- [x] /health returns 200 locally
+- [x] One request proves tenant id is received and logged
+- [x] README shows your chosen tenancy + isolation strategy
+- [x] At least 2 screenshots in `/screenshots`
 
 ---
 
