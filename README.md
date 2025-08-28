@@ -7,8 +7,6 @@ A minimal, practical starting point for a multi-tenant Backend-as-a-Service buil
 
 ---
 
-## Badges (replace `<owner>` and `<repo>` after you push)
-
 CI: ![CI](https://github.com/thushar10/baas-multitenant-skeleton/actions/workflows/ci.yml/badge.svg)
 
 ---

@@ -12,4 +12,4 @@
 - **Open questions:**  
   - How will you model tenants (if applicable)?  
   - What storage/index will you use for RAG (FAISS, ES, pgvector)?  
-  - How will you test correctness?  
+  - How will you test correctness?
